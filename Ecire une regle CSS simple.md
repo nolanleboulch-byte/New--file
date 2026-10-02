@@ -1,26 +1,26 @@
-## &#x20;         **Ecire une regle CSS simple**
+## &#x20;         **Ecrire une règle CSS simple**
 
 
 
-**1 Reperer le selecteur:**
+#### **1 Repérer le sélecteur:**
 
-&#x09;**le selecteur est la partie que l'on veut modifier**
+&#x09;**le sélecteur est la partie de notre code html que l'on veut modifier en ajoutant des information complémentaire pour que le rendu viseul de notre page finale soit meilleur 	Exemple: p -> veut dire que nous allons sélectionner tous les paragraphe de notre html pour pouvoir modifier leur visuel**
 
-&#x09;	**Exemple: p -> veut dire que nous allon selectionner tous les paragraphe de notre html**
-
-
-
+&#x09;**Mais il exste un nombre impressionnat de selecteur car se sont toute les balise utilise en html par exemple  <body>, <h1>...**
 
 
 
 
 
 
-**2 repere la propriete:** 
 
-&#x09;**c'est ce qui va indiquer l'action que l'on va vouloir faire**
+#### **2 Repère la propriété:** 
 
-**Exemple: color -> beut dire que l'on va definir la couleur du paragraphe ici mais celamarche avec tt les selecteur**
+&#x09;**C'est la commande qui va permettre d'indiquer l'action que l'on va exécuter sur notre partie de code**
+
+**Exemple: color -> peut dire que l'on va définir la couleur du paragraphe ici mais cela marche avec tout les sélecteurs**
+
+**mais il y a plusieur autre propriete pour pouvoir modifier la forme de notre page**
 
 &#x09;**p {**
 
@@ -30,11 +30,11 @@
 
 
 
-3 Repere la valeur:
+#### 3 Repère la valeur:
 
-&#x09;c'est ceque l'on va definir pour la propriete pour qu'uelle fonctionne
+&#x09;c'est la spécification de notre propriété pour que elle puisse fonctionner est cette valeur peut etre changer 
 
-&#x09;Exemple: red -> veut dire que nous allons affecter la couleur rouge mais cela pour etre toute autre couleuyr en anglais
+&#x09;Exemple: red -> veut dire que nous allons affecter la couleur rouge mais cela pour être toute autre couleur en anglais
 
 &#x09;	p {
 
@@ -48,7 +48,7 @@
 
 
 
-4 En regle generale on peut ecrire une regle CSS de la facon suivante:
+#### 4 En règle générale on peut écrire une règle CSS de la façon suivante:
 
 
 
